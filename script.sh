@@ -1,4 +1,4 @@
-#https://github.com/wtoalabi/whisper/raw/main/script.sh
+# sudo wget https://github.com/wtoalabi/whisper/raw/main/script.sh
 pip install git+https://github.com/openai/whisper.git
 sudo apt update && sudo apt install ffmpeg  --yes
 sudo wget https://github.com/wtoalabi/whisper/raw/main/sample_1.mp3
